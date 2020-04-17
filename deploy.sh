@@ -1,0 +1,1 @@
+scp -i /Users/lujingfeng/sshscript/private.pem -r ../91MED root@47.107.82.72:/root 
